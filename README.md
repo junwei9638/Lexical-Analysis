@@ -1,17 +1,18 @@
 # Lexical-Analysis
 System Program Project1
-開發平台 : MacBook Pro (Retina, 13-inch, Early 2015)
-	        CPU : 2.7 GHz Dual-Core Intel Core i5
-	        Memory : 8 GB 1867 MHz DDR3
-	        Graphics : Intel Iris Graphics 6100 1536 MB
-	        Storage : 256G SSD
+
+開發平台: MacBook Pro (Retina, 13-inch, Early 2015)
+	 CPU : 2.7 GHz Dual-Core Intel Core i5
+	 Memory : 8 GB 1867 MHz DDR3
+	 Graphics : Intel Iris Graphics 6100 1536 MB
+	 Storage : 256G SSD
 
 開發環境 : MacOs Catalina 
-	        IDE : Xcode 11.1
+	  IDE : Xcode 11.1
 
 程式語言 : C++
-
 組合語言 : x86
+
 程式設計功能 :  
 1.	能輸入所需table檔並建立database
 2.	輸入input檔輸出output檔並能重複執行
