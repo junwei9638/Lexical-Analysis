@@ -44,6 +44,7 @@ void ReadTable() {
         
         string fileName = "Table" + to_string( i ) + ".table" ;
         input.open( fileName.c_str() );
+        
         while( !input.eof() ) {
 
             input >> tempData.value ;
